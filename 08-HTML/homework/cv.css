@@ -1,0 +1,39 @@
+body{
+    background: orange;
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contenedor{
+    width: 80%;
+    background: white;
+    padding: 10px;
+}
+
+.titulo{
+    text-align: center;
+}
+.titulo h1{
+    color: rgb(92, 92, 252);
+}
+.foto{
+    text-align: center;
+}
+
+.foto img{
+    width: 200px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.descrip{
+    text-align: justify;
+}
+h2{
+    border: 2px solid red;
+    width: min-content;
+}
+
+.descrip, .edu, .skills{
+    border-bottom: 3px solid orchid;
+}

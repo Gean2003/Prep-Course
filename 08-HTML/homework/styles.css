@@ -1,0 +1,31 @@
+*{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+h1{
+    color: blueviolet;
+}
+img{
+    width: 400px;
+}
+#thirDiv{
+    background: orange;
+}
+#spanId{
+    font-size: 18px;
+}
+#spanId{
+    margin: 50px;
+}
+#thirDiv{
+    padding: 50px;
+}
+#thirDiv{
+    border: 2px solid red;
+    text-align: center;
+}
