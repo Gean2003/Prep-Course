@@ -1,5 +1,4 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
-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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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
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "Juan Francisco";
 
