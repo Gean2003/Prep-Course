@@ -11,6 +11,7 @@ function invocarCallback(cb) {
   // Invoca al callback `cb`
   cb();
 }
+
     
  function operacionMatematica(n1, n2, cb) {
   //Vamos a recibir una función que realiza una operación matemática como callback junto con dos números.
